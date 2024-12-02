@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "57230720200",
+    "firebase_url": "https://p3-pwr-firebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "p3-pwr-firebase",
+    "storage_bucket": "p3-pwr-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57230720200:android:02da45c300582b15c3f9fd",
+        "android_client_info": {
+          "package_name": "com.SmittD.PWrFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8WBXVbIDdlwcsu1nThWqk6r4Fp6rmV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57230720200:android:0b4534846e1e78bbc3f9fd",
+        "android_client_info": {
+          "package_name": "com.example.p3_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8WBXVbIDdlwcsu1nThWqk6r4Fp6rmV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
